@@ -1,5 +1,5 @@
 ---
-permalink: /index.html
+permalink: /colorGame.html
 ---
 
 # The_RGB_Game
